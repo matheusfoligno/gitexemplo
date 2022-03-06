@@ -1,2 +1,2 @@
 Aqui está escrito algo.
-Totalmente diferente
+Escrevi algo totalmente diferente.
